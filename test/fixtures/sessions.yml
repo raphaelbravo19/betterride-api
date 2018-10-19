@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dia: 1
+  mes: MyString
+  started_at: MyString
+  finished_at: MyString
+  junction: one
+
+two:
+  dia: 1
+  mes: MyString
+  started_at: MyString
+  finished_at: MyString
+  junction: two

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  hour: MyString
+  type: 
+  turn: MyString
+  lanes_count: one
+
+two:
+  hour: MyString
+  type: 
+  turn: MyString
+  lanes_count: two
